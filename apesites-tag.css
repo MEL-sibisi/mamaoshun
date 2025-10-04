@@ -1,0 +1,28 @@
+
+.ape-sites-tag{
+    padding-top: 1rem; 
+    display: flex;
+    justify-content: center;
+    background-color: rgb(228, 228, 228);
+}
+.tag-inner{
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+.tag-inner span{
+    font-weight: bold;
+    font-size: 20px;
+    margin-right: 6px;
+}
+.tag-inner a{
+    text-decoration: none;
+    color: rgb(0, 118, 160);
+}
+.ape-sites-icon{
+    width: 2rem;
+    height: 2rem;
+}
